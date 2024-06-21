@@ -1,5 +1,5 @@
-# im a freak
-## ~ i like making freaky stuff ~
+#
+## 
 
 ### i use these:
 <p align="left">
