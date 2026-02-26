@@ -19,7 +19,7 @@
 ## 💻 Стек
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,postgres,linux,git,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,linux,git,vscode" />
 </p>
 
 ---
