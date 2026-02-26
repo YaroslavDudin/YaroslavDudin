@@ -30,9 +30,12 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YaroslavDudin&theme=tokyonight" />
 </p>
 
+### 🧩 Процент языков в репозиториях
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YaroslavDudin&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YaroslavDudin&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaroslavDudin&layout=compact&langs_count=8&theme=tokyonight"
+  />
 </p>
 
 ---
@@ -40,7 +43,7 @@
 ## 🐍 Активность
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YaroslavDudin/YaroslavDudin/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/YaroslavDudin/YaroslavDudin/output/dist/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -55,5 +58,5 @@
 
 ## 📫 Контакты
 
-GitHub: https://github.com/YaroslavDudin  
-Резюме: https://yaroslavdudin.github.io/rezume.github.io/
+GitHub: [https://github.com/YaroslavDudin](https://github.com/YaroslavDudin)  
+Резюме: [https://yaroslavdudin.github.io/rezume.github.io/](https://yaroslavdudin.github.io/rezume.github.io/)
