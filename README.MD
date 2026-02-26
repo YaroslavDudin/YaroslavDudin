@@ -55,5 +55,7 @@
 
 ## 📫 Контакты
 
-GitHub: https://github.com/YaroslavDudin  
-Резюме: https://yaroslavdudin.github.io/rezume.github.io/
+GitHub: [https://github.com/YaroslavDudin](https://github.com/YaroslavDudin)  
+Резюме: [https://yaroslavdudin.github.io/rezume.github.io/](https://yaroslavdudin.github.io/rezume.github.io/)  
+Email: [yaroslavedudin@yandex.ru](mailto:yaroslavedudin@yandex.ru)  
+Telegram: [@prostoQpo](https://t.me/prostoQpo)
