@@ -1,20 +1,69 @@
-## ~ Backend dev | Python | Django | Frontend | React ~
-### i use these:
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-</p>
+# Привет 👋 Меня зовут Ярослав
+
+Я junior full-stack разработчик.  
+Работаю с Python (Django) и React. Интересно делать понятные и рабочие вещи — от API до интерфейса.
+
+Сейчас активно ищу первую полноценную позицию и быстро подтягиваю знания там, где это нужно проекту.
+
+---
+
+## 💻 Стек
+
+**Backend:**  
+Python • Django  • Linux  
+
+**Frontend:**  
+React • JavaScript • HTML • CSS  
+
+**Инструменты:**  
+Git • VS Code  • CLI (Node.js)
+
+---
+
+## 🚀 Немного о себе
+
+- Умею собрать небольшой full-stack проект с нуля  
+- Понимаю как связать фронт и бэк  
+- Работал с API, формами, валидацией, авторизацией  
+- Пишу аккуратный код и стараюсь держать структуру проекта в порядке  
+- Быстро учусь и спокойно воспринимаю фидбек  
+
+---
+
+## 📊 Статистика GitHub
 
 <details>
-  <summary>My stats:</summary>
- 
-<a href="https://github.com/YaroslavDudin">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaroslavDudin&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&layout=compact&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-</a>
+<summary>Показать статистику</summary>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YaroslavDudin&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YaroslavDudin&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaroslavDudin&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
+
 </details>
+
+---
+
+## 📌 Сейчас фокус
+
+- Улучшение архитектуры Django-проектов  
+- Более уверенный React  
+- Понимание продакшен-подходов  
+- TypeScript
+- Docker
+
+---
+
+## 📫 Контакты
+
+GitHub: https://github.com/YaroslavDudin  
+Резюме: https://yaroslavdudin.github.io/rezume.github.io/
