@@ -1,65 +1,55 @@
-# Привет 👋 Меня зовут Ярослав
+# 👋 Привет, я Ярослав
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Junior+Full-Stack+Developer;Python+%7C+Django+%7C+React;Always+learning+and+building&center=true&width=500&height=45">
+</p>
+
+---
+
+## 🚀 Обо мне
 
 Я junior full-stack разработчик.  
-Работаю с Python (Django) и React. Интересно делать понятные и рабочие вещи — от API до интерфейса.
+Работаю с Python (Django) и React.  
+Интересно разрабатывать понятные и рабочие решения — от API до интерфейса.
 
-Сейчас активно ищу первую полноценную позицию и быстро подтягиваю знания там, где это нужно проекту.
+Сейчас ищу первую полноценную позицию и активно прокачиваю уровень.
 
 ---
 
 ## 💻 Стек
 
-**Backend:**  
-Python • Django  • Linux  
-
-**Frontend:**  
-React • JavaScript • HTML • CSS  
-
-**Инструменты:**  
-Git • VS Code  • CLI (Node.js)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,postgres,linux,git,docker,vscode" />
+</p>
 
 ---
 
-## 🚀 Немного о себе
+## 📊 GitHub статистика
 
-- Умею собрать небольшой full-stack проект с нуля  
-- Понимаю как связать фронт и бэк  
-- Работал с API, формами, валидацией, авторизацией  
-- Пишу аккуратный код и стараюсь держать структуру проекта в порядке  
-- Быстро учусь и спокойно воспринимаю фидбек  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YaroslavDudin&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YaroslavDudin&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YaroslavDudin&theme=tokyonight" />
+</p>
 
 ---
 
-## 📊 Статистика GitHub
-
-<details>
-<summary>Показать статистику</summary>
-
-<br>
+## 🐍 Активность
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YaroslavDudin&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://raw.githubusercontent.com/YaroslavDudin/YaroslavDudin/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YaroslavDudin&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaroslavDudin&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
-
-</details>
 
 ---
 
 ## 📌 Сейчас фокус
 
-- Улучшение архитектуры Django-проектов  
-- Более уверенный React  
-- Понимание продакшен-подходов  
-- TypeScript
-- Docker
+- Уверенный Django backend  
+- Более глубокий React  
+- Архитектура и чистый код  
 
 ---
 
