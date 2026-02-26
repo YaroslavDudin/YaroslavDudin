@@ -1,43 +1,30 @@
-# Привет 👋 Меня зовут Ярослав
+# 👋 Привет, я Ярослав
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Junior+Full-Stack+Developer;Python+%7C+Django+%7C+React;Always+learning+and+building&center=true&width=500&height=45">
+</p>
+
+---
+
+## 🚀 Обо мне
 
 Я junior full-stack разработчик.  
-Работаю с Python (Django) и React. Интересно делать понятные и рабочие решения — от API до интерфейса.
+Работаю с Python (Django) и React.  
+Интересно разрабатывать понятные и рабочие решения — от API до интерфейса.
 
-Сейчас ищу первую полноценную позицию и активно развиваюсь в сторону production-подходов и архитектуры.
+Сейчас ищу первую полноценную позицию и активно прокачиваю уровень.
 
 ---
 
 ## 💻 Стек
 
-**Backend:**  
-Python • Django • Linux  
-
-**Frontend:**  
-React • JavaScript • HTML • CSS  
-
-**Инструменты:**  
-Git • VS Code • CLI (Node.js)  
-
-Изучаю: TypeScript • Docker
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,postgres,linux,git,docker,vscode" />
+</p>
 
 ---
 
-## 🚀 Немного о себе
-
-- Собираю небольшие full-stack проекты с нуля  
-- Настраиваю взаимодействие frontend ↔ backend  
-- Работал с REST API, формами, валидацией, авторизацией  
-- Стараюсь писать аккуратный и структурированный код  
-- Спокойно воспринимаю фидбек и быстро вникаю в новые задачи  
-
----
-
-## 📊 Статистика GitHub
-
-<details>
-<summary>Показать статистику</summary>
-
-<br>
+## 📊 GitHub статистика
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YaroslavDudin&theme=tokyonight" />
@@ -48,17 +35,21 @@ Git • VS Code • CLI (Node.js)
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YaroslavDudin&theme=tokyonight" />
 </p>
 
-</details>
+---
+
+## 🐍 Активность
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YaroslavDudin/YaroslavDudin/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
 ## 📌 Сейчас фокус
 
-- Архитектура Django-проектов  
-- Более уверенный React  
-- Production-подходы  
-- TypeScript  
-- Docker  
+- Уверенный Django backend  
+- Более глубокий React  
+- Архитектура и чистый код  
 
 ---
 
